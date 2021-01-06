@@ -39,11 +39,13 @@ This system allows for quick and effecient handling and viewing of expense reimb
 
 ## Getting Started
 
-Type ``` git clone ``` to clone this repo
-
-## All the code required to get started
-
-##Images of what it should look like
+Type ``` git clone https://github.com/jvassas/project1.git ``` to clone this repo
 
 ## Usage
-Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+
+A database connection needs to be established. Proper credentials must be provided in the /Project_1/src/main/resources directory.
+
+## Contributors
+
+Jacob Vassas
+
