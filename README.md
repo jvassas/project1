@@ -38,10 +38,8 @@ This system allows for quick and effecient handling and viewing of expense reimb
 * An employee is able to change their information and password
 
 ## Getting Started
-(include git clone command) (include all environment setup steps)
 
-Be sure to include BOTH Windows and Unix command
-Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+Type ``` git clone ``` to clone this repo
 
 ## All the code required to get started
 
